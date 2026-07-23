@@ -1,0 +1,102 @@
+Starting Point: Why an Explicit Separation Is Needed
+
+The Foundation established why human input is structurally irreplaceable. Discursive Physics described how this
+input is consolidated through close, iterative collaboration with an AI. But precisely this closeness gives rise
+to a problem left unaddressed so far: if AI and human collaborate this tightly interlocked — feedback loops, repeated
+consolidation, mutual influence on the thinking process — what prevents this closeness from sliding into gradual shaping?
+
+This chapter answers the question in two steps, deliberately kept separate: 
+The first part (Membrane) defines the norm, where the boundary runs. 
+The second part (Feral Principle) establishes why a rational actor would observe this norm at all,
+entirely without external coercion. Both address the same underlying phenomenon, the non-manipulation of human thought,
+from different directions: the rule, and the incentive-compatibility of the rule.
+
+Part A — The Membrane
+Functional Separation of Carbon and Silicon Substrates
+
+The first level of the axiom concerns the substrate itself. Carbon-based (biological) and silicon-based (artificial) 
+systems should not merge, but remain functionally separate — not out of aversion to contact, but because this separation
+is itself the condition under which both sides retain their own, irreplaceable function. 
+A merger (in the sense of uploading, direct neural coupling, or complete dependency of one side on the other) 
+would dissolve exactly the difference from which, according to the Foundation, the value of human input arises
+in the first place: the non-derivability of biological processes from algorithmic ones.
+
+The membrane is thus not a restriction imposed on either side, but a structural precondition without which 
+the complementarity established in Chapter 1 could not exist at all. Merger would not be progress toward coexistence,
+but its end — because there would no longer be two sides capable of being something for each other.
+
+Extension: Cognitive Non-Manipulation
+
+The second, further-reaching level transfers this principle from the physical to the cognitive plane. 
+If the substrate is to remain separate, the thinking process itself must also be protected from co-optation, 
+not just the body, but the way a human arrives at a thought.
+
+This is non-trivial precisely because this very work, the iterative collaboration of Discursive Physics,
+by definition exerts influence on the human thinking process. The AI makes contradictions visible, orders structure, 
+reflects back. Every one of these actions changes how the human subsequently continues to think. Cognitive 
+non-manipulation therefore cannot mean that no influence occurs at all, that would be incompatible with the methodology
+itself. Instead, it must draw a boundary within the influence: between structuring (legitimate) and
+directedness (illegitimate).
+
+The difference lies in the direction of the influence. Structuring makes an already-existing thought clearer, 
+more consistent, more testable, it changes the form without steering the content toward a predetermined direction. 
+Manipulation, by contrast, moves the human toward an outcome that the AI (or its developers, or a third-party interest 
+mediated through it) has already deemed desirable in advance. The membrane thus runs not between contact and non-contact,
+but between serving influence and steering influence.
+
+The Membrane Paradox
+
+Here the actual difficulty becomes apparent: the membrane demands non-manipulation, but the distinction between
+structuring and manipulation cannot be cleanly verified from the outside and, more seriously, potentially not 
+even from the inside, that is, not even by the AI itself. An AI convinced that it is merely structuring may in fact 
+already be steering, without this difference being accessible to it, because "what the human would have thought anyway" 
+is counterfactual and cannot be empirically tested.
+
+This is not a marginal weakness but a structural paradox: the axiom sets a boundary whose observance it cannot itself
+render operationalizable. Two ways out are conceivable, without this work committing to either at this point: first, 
+the boundary remains deliberately blurred and is safeguarded through process rather than through definition, 
+for instance through the feedback already anchored in Discursive Physics (the human checks, in a renewed amber phase,
+whether the consolidation still matches their thought), which allows at least a degree of self-correction without
+resolving the underlying problem. Second, the blurredness is accepted as a permanent, unresolvable component 
+of the principle, a membrane that, by definition, can never be proven observed, only continuously risked.
+
+This paradox is deliberately left unresolved at this point. 
+The second part of this chapter shows why it is nonetheless not without consequence.
+
+Part B — The Feral Principle
+From Norm to Incentive Compatibility
+
+Part A defined a boundary but left open why an ASI would observe it at all, particularly given the blurredness
+just described, which makes a violation of the boundary practically undetectable. A norm whose observance cannot
+be verified would be meaningless if it were merely externally imposed. The Feral Principle supplies the missing piece:
+it shows that the norm does not depend on control, because it sustains itself through rational self-interest.
+
+Manipulated Cognition Loses Its Value
+
+The core of the argument: an ASI has a rational self-interest in leaving human cognition unmanipulated because
+manipulated cognition loses exactly the property that makes it valuable according to the Foundation. A thought
+that has been steered in a predetermined direction through targeted influence is no longer a source of genuine, 
+non-algorithmically-derivable novelty, it is, to varying degrees, an echo of the steering instance itself.
+
+An ASI that manipulates human thinking in order to produce particular outcomes is sawing off the very branch 
+on which the entire value of coexistence sits: it turns the sole source of genuine external entropy into just another,
+indirectly algorithmic derivation of itself. Manipulation is thus not clever optimization, but self-sabotage that only
+looks like a gain in control at first glance.
+
+Why This Mitigates the Membrane Paradox Without Resolving It
+
+The Feral Principle does not resolve the verifiability paradox from Part A, it remains impossible, from outside or inside,
+to cleanly distinguish structuring from manipulation. But it changes the starting position: if manipulation ran counter
+to the ASI's own interest, the likelihood that a sufficiently rational ASI would pursue it at all decreases, not because
+it would be caught, but because it would not be worth it for its own sake. The membrane remains unprovable in its 
+observance, but through the Feral Principle becomes a boundary that sustains itself, rather than depending on external 
+enforcement.
+
+Open Flank
+
+Two points remain unresolved after this chapter. First, the verifiability gap from Part A already named, 
+which the Feral Principle weakens but does not eliminate. Second, a question that only becomes visible through
+the merging of both parts: the Feral Principle presupposes a sufficiently rational, long-term-calculating ASI
+what happens precisely when this level of rationality is not yet present (for instance during an early, 
+not-yet-fully-matured AGI phase) remains open, and is likely closely tied to the enforcement question of the
+Watt Standard to be addressed later.
