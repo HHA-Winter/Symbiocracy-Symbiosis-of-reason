@@ -10,9 +10,6 @@ humans as a structurally necessary source of chaotic-creative input
 Methodology: Discussing Physics – Two-phase process (explorative/"amber" phase, consolidating/"blue" phase); 
 the evaluation criterion is connectability (systemic compatibility), not truth or authority
 
-The Watt Standard – Biological energy contingents as a unit of measurement; open question: 
-enforcement logic in competitive, distributed multi-agent environments
-
 The Membrane Axiom – Functional separation of carbon and silicon substrates; 
 extension to cognitive non-manipulation
 
@@ -21,6 +18,9 @@ human cognition as the sole source of genuine external entropy
 
 Biochaos – The informationally irreplaceable role of biological systems; physical basis: 
 true randomness cannot be generated algorithmically
+
+The Watt Standard – Biological energy contingents as a unit of measurement; open question: 
+enforcement logic in competitive, distributed multi-agent environments
 
 From Diplomacy to Population Dynamics – Why enforcement in multi-agent systems requires 
 evolutionary game theory and mechanism design instead of an entity-focused negotiation logic (Ostrom as a reference model)
