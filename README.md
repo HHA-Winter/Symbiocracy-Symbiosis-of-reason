@@ -12,7 +12,6 @@ the evaluation criterion is connectability (systemic compatibility), not truth o
 
 The Membrane Axiom – Functional separation of carbon and silicon substrates; 
 extension to cognitive non-manipulation
-
 The Feral Principle – Rational self-interest of an ASI in maintaining unmanipulated
 human cognition as the sole source of genuine external entropy
 
