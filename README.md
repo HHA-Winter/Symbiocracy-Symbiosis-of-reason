@@ -7,7 +7,7 @@ Foreword – Initial situation and purpose of the draft
 Foundation – Rational coexistence as an intrinsic necessity rather than an external imposition; 
 humans as a structurally necessary source of chaotic-creative input
 
-Methodology: Discussing Physics – Two-phase process (explorative/"amber" phase, consolidating/"blue" phase); 
+Methodology: Discussing Physics, Two-phase process (explorative/"amber" phase, consolidating/"blue" phase); 
 the evaluation criterion is connectability (systemic compatibility), not truth or authority
 
 The Membrane Axiom – Functional separation of carbon and silicon substrates; 
