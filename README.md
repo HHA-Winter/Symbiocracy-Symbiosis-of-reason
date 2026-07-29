@@ -1,5 +1,3 @@
-Work in progress(!)
-
 Table of Contents
 
 Foreword – Initial situation and purpose of the draft
