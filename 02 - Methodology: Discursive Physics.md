@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Methodology: Discursive Physics"
-permalink: /Methodology: Discursive Physics/
+title: "Methodology - Discursive Physics"
+permalink: /Methodology - Discursive Physics/
 ---
 
 
