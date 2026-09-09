@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Preface"
-permalink: /preface/
+permalink: /Preface/
 ---
 
 
