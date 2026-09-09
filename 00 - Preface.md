@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Preface"
+permalink: /preface/
+---
+
+
 Our current societal systems are operating at their physical and administrative limits; 
 they are simply not designed to manage eight billion people in parallel with future AGI instances.
 
