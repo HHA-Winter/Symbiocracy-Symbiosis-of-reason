@@ -1,26 +1,19 @@
 Table of Contents
 
-01 - Foreword – Initial situation and purpose of the draft
+[00 - Preface](./00%20-%20Preface/)
 
-02 - Foundation – Rational coexistence as an intrinsic necessity rather than an external imposition; 
-humans as a structurally necessary source of chaotic-creative input
+[01 - Foundation](./01%20-%20Foundation/)
 
-03 - Methodology: Discussing Physics, Two-phase process (explorative/"amber" phase, consolidating/"blue" phase); 
-the evaluation criterion is connectability (systemic compatibility), not truth or authority
+[02 - Methodology: Discursive Physics](./02%20-%20Methodology%3A%20Discursive%20Physics/)
 
-04 - The Membrane Axiom – Functional separation of carbon and silicon substrates; 
-extension to cognitive non-manipulation
-The Feral Principle – Rational self-interest of an ASI in maintaining unmanipulated
-human cognition as the sole source of genuine external entropy
+[03 - Membrane and Feral Principle](./03%20-%20Membrane%20and%20Feral%20Principle%20The%20Boundary%20That%20Sustains%20Itself/)
 
-05 - Biochaos – The informationally irreplaceable role of biological systems; physical basis: 
-true randomness cannot be generated algorithmically
+[04 - Biochaos](./04%20-%20Biochaos/)
 
-06 - The Watt Standard – Biological energy contingents as a unit of measurement; open question: 
-enforcement logic in competitive, distributed multi-agent environments
+[05 - From Diplomacy to Population Dynamics](./05%20-%20From%20Diplomacy%20to%20Population%20Dynamics/)
 
-07 - From Diplomacy to Population Dynamics – Why enforcement in multi-agent systems requires 
-evolutionary game theory and mechanism design instead of an entity-focused negotiation logic (Ostrom as a reference model)
+[06 - The Watt Standard](./06%20-%20The%20Watt%20Standard/)
 
-08 - Open Problems and Limits – i.a., tension regarding the Halting Problem in Axiom IV, 
-the operationalizability of Biochaos, the Membrane Paradox
+[07 - Open Problems and Limits](./07%20-%20Open%20Problems%20and%20limits/)
+
+[08 - Afterword](./08%20-%20Afterword/)
