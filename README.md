@@ -4,7 +4,7 @@ Table of Contents
 
 [01 - Foundation](./01%20-%20Foundation.md)
 
-[02 - Methodology - Discursive Physics](./02%20-%20Methodology%3A%20Discursive%20Physics.md)
+[02 - Methodology - Discursive Physics](./02%20-%20Methodology%20Discursive%20Physics.md)
 
 [03 - Membrane and Feral Principle](./03%20-%20Membrane%20and%20Feral%20Principle%20The%20Boundary%20That%20Sustains%20Itself.md)
 
