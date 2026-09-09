@@ -1,12 +1,12 @@
 Table of Contents
 
-01 - Foreword – Initial situation and purpose of the draft (./00-Preface.md)
+01 - Foreword – Initial situation and purpose of the draft
 
 02 - Foundation – Rational coexistence as an intrinsic necessity rather than an external imposition; 
-humans as a structurally necessary source of chaotic-creative input (./01-Foundation.md)
+humans as a structurally necessary source of chaotic-creative input
 
 03 - Methodology: Discussing Physics, Two-phase process (explorative/"amber" phase, consolidating/"blue" phase); 
-the evaluation criterion is connectability (systemic compatibility), not truth or authority (./02-Methodology: Discursive Physics)
+the evaluation criterion is connectability (systemic compatibility), not truth or authority
 
 04 - The Membrane Axiom – Functional separation of carbon and silicon substrates; 
 extension to cognitive non-manipulation
