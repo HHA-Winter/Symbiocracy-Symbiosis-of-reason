@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Foundation"
+permalink: /foundation/
+---
+
+
 Foundation
 
 The Starting Thesis
