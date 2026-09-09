@@ -1,3 +1,9 @@
+layout: page
+title: "Biochaos"
+permalink: /Biochaos/
+---
+
+
 Starting Point: From Argument to Axiom
 
 The Foundation already introduced the core idea: humans are a structurally necessary source of chaotic-creative input, because genuine randomness cannot be algorithmically generated. There, 
