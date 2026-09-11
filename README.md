@@ -1,19 +1,19 @@
 Table of Contents
 
-[00 - Preface](Preface.md)
+[00 - Preface](<00 - Preface.md>)
 
-[01 - Foundation](Foundation.md)
+[01 - Foundation](<01 - Foundation.md>)
 
-[02 - Methodology - Discursive Physics](Methodology - Discursive Physics.md)
+[02 - Methodology - Discursive Physics](<02 - Methodology - Discursive Physics.md>)
 
-[03 - Membrane and Feral Principle The Boundary That Sustains itself](Membrane and  Feral Principle The Boundary That Sustains Itself.md)
+[03 - Membrane and Feral Principle The Boundary That Sustains itself](<03 - Membrane and Feral Principle The Boundary That Sustains itself.md>)
 
-[04 - Biochaos](Biochaos.md)
+[04 - Biochaos](<04 - Biochaos.md>)
 
-[05 - From Diplomacy to Population Dynamics](From Diplomacy to Population Dynamics.md)
+[05 - From Diplomacy to Population Dynamics](<05 - From Diplomacy to Population Dynamics.md>)
 
-[06 - The Watt Standard](The Watt Standard.md)
+[06 - The Watt Standard](<06 - The Watt Standard.md>)
 
-[07 - Open Problems and Limits](Open Problems and limits.md)
+[07 - Open Problems and Limits](<07 - Open Problems and limits.md>)
 
-[08 - Afterword](Afterword.md)
+[08 - Afterword](<08 - Afterword.md>)
