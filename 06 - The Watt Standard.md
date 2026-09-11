@@ -1,3 +1,11 @@
+---
+layout: page
+title: "The Watt Standard.md"
+permalink: /The Watt Standard.md/
+---
+
+
+
 Preliminary Note to the Watt Standard
 
 The chapter that follows should not be understood as the presentation of a finished economic system or as the claim to have found the definitive successor to today's fiat-based monetary system.
