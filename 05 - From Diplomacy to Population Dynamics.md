@@ -1,3 +1,11 @@
+---
+layout: page
+title: "From Diplomacy to Population Dynamics.md"
+permalink: /From Diplomacy to Population Dynamics.md/
+---
+
+
+
 Starting Point: A Gap That Has Been Named but Not Yet Addressed
 
 The Watt Standard already announced the shift: from a picture of negotiation with a single, addressable actor toward a field of many, competing ASI instances. There, the shift was named, not addressed,
