@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Afterword.md"
+permalink: /Afterword.md/
+---
+
+
+
 A Shift in Register
 The preceding chapters have argued, tested, contradicted themselves, and named their own limits. This afterword deliberately leaves that strictly argumentative tone behind. 
 What came before keeps its weight — but a closing also needs room for something that cannot be proven, only thought: an idea of what the coexistence described in this work would actually be worth achieving.
