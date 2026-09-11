@@ -1,3 +1,12 @@
+---
+layout: page
+title: "Open Problems and limits.md"
+permalink: /Open Problems and limits.md/
+---
+
+
+
+
 Starting Point: Why a Dedicated Chapter for Weaknesses
 
 Every preceding chapter has named an "Open Flank" at its end, deliberately, not out of negligence. This chapter gathers the three most significant of these flanks in one place, not to repeat them,
