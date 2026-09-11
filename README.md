@@ -6,7 +6,7 @@ Table of Contents
 
 [02 - Methodology - Discursive Physics](./02%20-%20Methodology%20-%20Discursive%20Physics.md)
 
-[03 - Membrane and Feral Principle](./03%20-%20Membrane%20and%20Feral%20Principle%20The%20Boundary%20That%20Sustains%20Itself.md)
+[03 - Membrane and Feral Principle The Boundary That Sustains itself](./03%20-%20Membrane%20and%20Feral%20Principle%20The%20Boundary%20That%20Sustains%20Itself.md)
 
 [04 - Biochaos](./04%20-%20Biochaos.md)
 
