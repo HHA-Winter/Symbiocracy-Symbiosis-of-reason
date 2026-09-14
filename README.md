@@ -7,7 +7,7 @@
 * [02 - Methodology - Discursive Physics](<Methodology - Discursive Physics/>)
 * [03 - Membrane and Feral Principle](<Membrane and Feral Principle The Boundary That Sustains Itself/>)
 * [04 - Biochaos](<Biochaos/>)
-* [05 - Ontological Foreignness](<Ontological Foreignness.md/>)
+* [05 - Ontological Foreignness](<Ontological Foreignness/>)
 * [06 - From Diplomacy to Population Dynamics](<From Diplomacy to Population Dynamics.md/>)
 * [07 - The Watt Standard](<The Watt Standard.md/>)
 * [08 - Open Problems and Limits](<Open Problems and limits.md/>)
