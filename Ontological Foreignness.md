@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: "Ontological Foreignness"
+permalink: /Ontological Foreignness/
+---
 
 
 
